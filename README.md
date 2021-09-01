@@ -21,3 +21,8 @@ git checkout -b Unit1
 git commmit -m 'commit and push' 
 git push
 ```
+- Make pull of the repo
+```sh
+git pull 
+git stash // undo all changes in local
+```
