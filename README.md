@@ -16,3 +16,8 @@ git add -A
 ```sh
 git checkout -b Unit1 
 ```
+- create a commit and push
+```sh
+git commmit -m 'commit and push' 
+git push
+```
